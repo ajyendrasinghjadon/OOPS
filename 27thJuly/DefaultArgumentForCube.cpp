@@ -15,5 +15,4 @@ int main () {
 
 
 
-// wa c++ program to create a function that accepts an integer by refernce and increases its value by 20 and display the value before and after the function call
-// write a class employee with data members employee id, name, salary and define all member functions outside the class using the  operators (acceptDetails, displayDetails, IncreaseSalaryby10%)
+
