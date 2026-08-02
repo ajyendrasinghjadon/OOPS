@@ -14,5 +14,3 @@ int main() {
         cout << "Larger number is: " << *p2;
     return 0;
 }
-
-// write the variadic function that returns the number of arguments
