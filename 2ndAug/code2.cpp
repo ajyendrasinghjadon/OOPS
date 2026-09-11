@@ -1,0 +1,1 @@
+//create a class number containing an integer, pass 2 objects to a function add their values and return the value as an object.
